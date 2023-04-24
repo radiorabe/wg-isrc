@@ -1,7 +1,7 @@
 # Welcome to the RaBe ISRC Working Group
 
 We aim to be the primary contact toward improving everything related to how we
-consume, and interact with ISRC/ISO 3901 identifiers at RaBe. This including
+consume, and interact with ISRC/ISO 3901 identifiers at RaBe. This includes
 keeping relevent resources pertaining to ISRC identifier available and
 facilitating working with ISRC codes across the industry.
 
