@@ -32,10 +32,12 @@ interact with ISRC identifiers and associated data.
 
 ### DDEX
 
-* [Music Industry Standards: ISRC @ DDEXnet](https://www.youtube.com/watch?v=FmZycNImCqc) (conference talk from 2017)
+* [Youtube: Music Industry Standards: ISRC @ DDEXnet](https://www.youtube.com/watch?v=FmZycNImCqc) (conference talk from 2017)
 * [DDEX RDR](https://ddex.net/standards/recording-data-and-rights/) (Recording Data and Rights)
   * [DDEX RDR-N](https://kb.ddex.net/implementing-each-standard/recording-data-and-rights-standards-(rdr)/recording-data-and-rights-notification-(rdr-n)/) (Recording Data and Rights Notification)
   * [DDEX RDR-R](https://kb.ddex.net/implementing-each-standard/recording-data-and-rights-standards-(rdr)/recording-data-and-rights-revenue-reporting-(rdr-r)/) (Recording Data and Rights Revenue Reporting)
+* [RDx by PPL (UK)](https://www.rdx-portal.org/)
+  * [Youtube: RDx & Data: Behind the Scenes of a Cross-industry Collaboration](https://www.youtube.com/watch?v=Z5jcbNeQpUE) (from 2021)
   
 ## License
 
