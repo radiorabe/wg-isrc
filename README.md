@@ -24,11 +24,15 @@ interact with ISRC identifiers and associated data.
 
 ## Resources
 
-### Links
+### Basics
 
-* [ISRC Handbook](https://isrc.ifpi.org/en/isrc-standard/handbook)
 * [ISRC on Wikipedia](https://en.wikipedia.org/wiki/International_Standard_Recording_Code)
+* [ISRC Handbook](https://isrc.ifpi.org/en/isrc-standard/handbook)
 * [ISO 3901](https://cdn.standards.iteh.ai/samples/64817/e4be2d27eaf6444f8ec7c42b9b741afc/ISO-3901-2019.pdf) (iTeh preview, because reasons 🤷)
+
+### DDEX
+
+* [Music Industry Standards: ISRC @ DDEXnet](https://www.youtube.com/watch?v=FmZycNImCqc) (conference talk from 2017)
 
 ## License
 
