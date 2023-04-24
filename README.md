@@ -2,7 +2,7 @@
 
 We aim to be the primary contact toward improving everything related to how we
 consume, and interact with ISRC/ISO 3901 identifiers at RaBe. This includes
-keeping relevent resources pertaining to ISRC identifier available and
+keeping relevent resources pertaining to ISRC identifiers available and
 facilitating working with ISRC codes across the industry.
 
 This Working Group is hosted by the [RaBe IT-Reaktion](https://rabe.ch).
