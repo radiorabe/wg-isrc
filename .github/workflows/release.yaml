@@ -1,0 +1,14 @@
+name: Release
+
+on:
+  push:
+    branches:
+      - main
+  pull_request:
+
+permissions:
+  contents: write
+
+jobs:
+  release-mkdocs:
+    uses: radiorabe/actions/.github/workflows/release-mkdocs.yaml@v0.39.1
