@@ -11,32 +11,4 @@ permissions:
 
 jobs:
   release-mkdocs:
-    runs-on: ubuntu-latest
-    permissions:
-      actions: none
-      checks: none
-      contents: write
-      deployments: none
-      issues: none
-      packages: none
-      pull-requests: none
-      repository-projects: none
-      security-events: none
-      statuses: none
-      id-token: none
-    steps:
-      - uses: actions/checkout@v4
-        with:
-          fetch-depth: 0
-
-      - name: Setup Python
-        uses: actions/setup-python@v5
-        with:
-          python-version: '3.x'
-
-      - run: pip install mkdocs "mkdocs-material[imaging]" mkdocs-gen-files mkdocs-literate-nav mkdocs-section-index mkdocs-autorefs 'mkdocstrings[python]'
-
-      - run: mkdocs build
-
-      - run: mkdocs gh-deploy
-        if: ${{ github.event_name == 'push' && github.ref == 'refs/heads/main' }}
+    uses: radiorabe/actions/.github/workflows/release-mkdocs.yaml@v0.39.1

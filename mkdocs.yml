@@ -1,8 +1,8 @@
 site_name: RaBe ISRC Working Group
 site_description: >- 
-  🎵 The RaBe ISRC Working Group aims to be the primary contact toward improving
+  🎵🦄 The RaBe ISRC Working Group aims to be the primary contact toward improving
   everything related to how we consume and interact with ISRC/ISO 3901 identifiers
-  at Radio Bern RaBe. 📻
+  at Radio Bern RaBe. 📻🦄
 site_author: RaBe IT-Reaktion
 site_url: https://radiorabe.github.io/wg-isrc/
 repo_url: https://github.com/radiorabe/wg-isrc
@@ -48,7 +48,7 @@ extra:
   social:
     - icon: fontawesome/brands/github
       link: https://github.com/radiorabe/wg-isrc
-      name: RaBe ISRC Working Group on GitHub 🎵
+      name: RaBe ISRC Working Group on GitHub 🎵🦄
 
 plugins:
 - search
