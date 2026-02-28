@@ -1,9 +1,18 @@
 site_name: RaBe ISRC Working Group
+site_description: >- 
+  🎵🦄 The RaBe ISRC Working Group aims to be the primary contact toward improving
+  everything related to how we consume and interact with ISRC/ISO 3901 identifiers
+  at Radio Bern RaBe. 📻🦄
+site_author: RaBe IT-Reaktion
+site_url: https://radiorabe.github.io/wg-isrc/
 repo_url: https://github.com/radiorabe/wg-isrc
 repo_name: radiorabe/wg-isrc
 
 theme:
   name: "material"
+  font:
+    text: Roboto
+    code: Roboto Mono
   palette:
     # Palette toggle for dark mode
     - scheme: slate
@@ -28,12 +37,25 @@ markdown_extensions:
 - pymdownx.inlinehilite
 - pymdownx.snippets
 - pymdownx.superfences
+- pymdownx.emoji:
+    emoji_index: !!python/name:material.extensions.emoji.twemoji
+    emoji_generator: !!python/name:material.extensions.emoji.to_svg
 
 extra_css:
 - css/style.css
 
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/radiorabe/wg-isrc
+      name: RaBe ISRC Working Group on GitHub 🎵🦄
+
 plugins:
 - search
+- social:
+    cards_layout_options:
+      background_color: "#00C9BF"
+      color: "#ffffff"
 - gen-files:
     scripts:
     - docs/gen_ref_pages.py
