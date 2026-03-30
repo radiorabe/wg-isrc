@@ -9,7 +9,7 @@ permissions: {}
 
 jobs:
   semantic-release:
-    uses: radiorabe/actions/.github/workflows/semantic-release.yaml@v0.41.3
+    uses: radiorabe/actions/.github/workflows/semantic-release.yaml@c7aef9928f610ec51b44f84debf2321189276d54 # v0.41.3
     permissions:
       contents: read
     secrets:
